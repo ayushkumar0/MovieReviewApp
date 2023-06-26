@@ -16,7 +16,6 @@ The Movie Review App is a MERN stack project that allows users to login and revi
 - React.js ⚛️: A JavaScript library used to build the user interface and components.
 - Node.js 🖥️: A JavaScript runtime environment used for server-side scripting.
 - HTML/CSS 🎨: Markup and styling languages used for the app's frontend design.
-- Bootstrap 🌈: A popular CSS framework for building responsive and visually appealing web pages.
 
 ## Usage 🚀
 1. Register an account or login with existing credentials.
